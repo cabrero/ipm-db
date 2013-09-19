@@ -1,0 +1,20 @@
+student:James Bond
+teacher:Achab
+teacher:Ozzy Osbourne
+student:Moll Flanders
+student:Hamlet
+teacher:Hannibal Lecter
+student:Gandalf
+student:Tintin
+teacher:Lovecraft
+teacher:Tony Montana
+student:Rocky Balboa
+student:Jeff Lebowski
+teacher:Darth Vader
+student:Nurse Ratched
+student:Jack Sparrow
+student:Mr. Pink
+student:Iñigo Montoya
+student:HAL 9000
+teacher:Borg Queen
+student:Napoleon Dynamite

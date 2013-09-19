@@ -1,0 +1,4 @@
+:Examen
+#deadline:Entrega de prácticas
+:Prueba de evaluación continua
+:Seminario

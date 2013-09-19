@@ -1,0 +1,4 @@
+#ipm:Interfaces Persona Máquina
+#as:Arquitectura Software
+#vvs:Validación y Verificación del Software
+#so:Sistemas Operativos
